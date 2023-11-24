@@ -173,6 +173,8 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/darshanajila/) for a mo
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AjilaDarshan&show_icons=true" />
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AjilaDarshan&label=Profile%20views&color=0e75b6&style=flat" alt="ajiladarshan" />
+</p>
 
 
 
