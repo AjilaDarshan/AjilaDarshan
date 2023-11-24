@@ -141,26 +141,28 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/darshanajila/) for a mo
 ## Projects:
 
 - 🤘 Here are my Open Source contributions so far: I keep building projects and tutorials for my YouTube channel, here are some
-  - [Car Insurance Claim Data Analysis using Power BI](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project)
-  - [Fleet Management Data Analysis using Power BI](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project)
-  - [Build TripAdvisor Hotel Dashboard using Tableau](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project)
-  - [Churn Data Analysis & Report](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project)
-  - [YouTube Data Analysis End-To-End Data Project using Python and AWS](https://github.com/darshilparmar/dataengineering-youtube-analysis-project)
+  - [Car Insurance Claim Data Analysis using Power BI]()
+  - [Fleet Management Data Analysis using Power BI](https://github.com/AjilaDarshan/Fleet_Management_Dashboard)
+  - [Build TripAdvisor Hotel Dashboard using Tableau]()
+  - [Churn Data Analysis & Report]()
+  - [YouTube Data Analysis End-To-End Data Project using Python and AWS]()
   - [Airkicks Website Design using Tailwind CSS](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project)
-  - [Whatsapp Chat Analyzer Web Application](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project)
+  - [Whatsapp Chat Analyzer Web Application](https://github.com/AjilaDarshan/whatsappchat-analyzer)
+  - [Music Store Analysis using SQL](https://github.com/AjilaDarshan/Music_Store_Data_Analysis)
+  - [Apple Store Data Analysis using SQL](https://github.com/AjilaDarshan/AppleStore_DataAnalysis)
 
 
 ## My Blogs:
 - 📝 Here are my most recent blogs:
    - Medium
-     - [Top 6 Machine Learning Algorithms you should learn in 2023](https://medium.com/@darshilp/sql-functions-i-use-as-data-engineer-1a1157b11cb4)
+     - [Top 6 Machine Learning Algorithms you should learn in 2023]()
        
 ## My Certifications and Courses:
 - My Certifications and Courses
-  - [Power BI Training](https://www.credly.com/badges/57774a7f-8f46-4896-8b85-0d882385dd8a/public_url)
-  - [SQL: Data Reporting and Analysis](https://coursera.org/share/1e743b93580fa6bc549063589a0f67a4)
-  - [Using Tableau to Discover Business Insights](https://www.coursera.org/account/accomplishments/specialization/certificate/5XV682V6U5DQ)
-  - [Ultimate Python Bootcamp for Data Science](https://www.coursera.org/account/accomplishments/certificate/FWZYWR93ZGMA)
+  - [Power BI Training]()
+  - [SQL: Data Reporting and Analysis]()
+  - [Using Tableau to Discover Business Insights]()
+  - [Ultimate Python Bootcamp for Data Science]()
 
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 <p align="left">
@@ -175,22 +177,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/darshanajila/) for a mo
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AjilaDarshan&label=Profile%20views&color=0e75b6&style=flat" alt="ajiladarshan" />
 </p>
-
-
-
-  
-
-
-
-
-
-
-
-
 <!--
-
-# Hello, I am Darshil 👋
-
 **AjilaDarshan/AjilaDarshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
