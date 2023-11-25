@@ -15,11 +15,11 @@
 
 🚀 I love the field of Data Analytics and always find a way to upgrade myself to the best of my abilities. I work on tools like Power BI, Tableau, SQL, Python etc. Also, have some knowledge about Microsoft Azure and AWS Services.
 
-💡 How I stand-out from others:
-• Have domain knowledge in Digital Marketing, E-Commerce, Marketplace, Sales.
-• Experience with creating visualizations, building dashboards and clearly communicating compelling stories around data.
-• Good understanding of database systems, data warehousing, ETL tools, data visualizations and reporting tools.
-• Proficiency in interpreting structured and unstructured data to solve business problems using data.
+💡 **How I Stand-Out from others:**\
+• Have domain knowledge in Digital Marketing, E-Commerce, Marketplace, Sales.\
+• Experience with creating visualizations, building dashboards and clearly communicating compelling stories around data.\
+• Good understanding of database systems, data warehousing, ETL tools, data visualizations and reporting tools.\
+• Proficiency in interpreting structured and unstructured data to solve business problems using data.\
 • Having solid interpersonal skills and multi-national work exposure with clients.
 
 🛠️ Additionally, I'm currently learning Next.js, React.js, Javascript skill at my free time to create optimized websites that captivate audiences and drive conversions.
