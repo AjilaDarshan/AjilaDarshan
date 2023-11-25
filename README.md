@@ -11,15 +11,20 @@
 
 <!-- About Me -->
 ## ✨About Me:
-🚀 With over a decade of experience, I've honed my skills in crafting top-notch proprietary enterprise software products. My journey is all about utilizing diverse technologies to design, develop, and deploy enterprise-class solutions while gaining deep insights into customers' needs and product usage.
+📊 Hi there! I'm a data analyst with over 1 years of experience, and my passion is turning complex information into simple, actionable insights.
 
-👨‍🏭 Leading and mentoring teams, I establish coding standards and UI best practices. My extensive app development background ensures I'm always at the forefront of innovative UI engineering.
+🚀 I love the field of Data Analytics and always find a way to upgrade myself to the best of my abilities. I work on tools like Power BI, Tableau, SQL, Python etc. Also, have some knowledge about Microsoft Azure and AWS Services.
 
-🛠️ My tech toolkit includes NextJS, React, React Native, NodeJS, Redux/RTK Toolkit, and Angular. I thrive in Agile environments, where I've spent more than 10 years crafting accessible UIs for web applications, emphasizing iterations, continuous integration, and unwavering quality.
+💡 How I stand-out from others:
+• Have domain knowledge in Digital Marketing, E-Commerce, Marketplace, Sales.
+• Experience with creating visualizations, building dashboards and clearly communicating compelling stories around data.
+• Good understanding of database systems, data warehousing, ETL tools, data visualizations and reporting tools.
+• Proficiency in interpreting structured and unstructured data to solve business problems using data.
+• Having solid interpersonal skills and multi-national work exposure with clients.
 
-🔐 Industry Authentication standards like oAuth2? Yep, I've got you covered. Incorporating Authorization aspects into the UI framework is just another day at the office for me.
+🛠️ Additionally, I'm currently learning Next.js, React.js, Javascript skill at my free time to create optimized websites that captivate audiences and drive conversions.
 
-🧠 When it comes to problem-solving, my Agile mindset shines through, adapting seamlessly to various methodologies. My knack for breaking down complex technical matters into clear, digestible explanations lets me bridge the gap between tech and business effortlessly.
+🧠 𝗖𝗼𝗺𝗽𝗲𝘁𝗲𝗻𝗰𝘆 𝗦𝗸𝗶𝗹𝗹𝘀: •Creativity •Problem Solving •Analytical Thinking •Decision-making •Flexibility •Leadership Abilities •Time Management •Interpersonal
 
 Let's connect and build the future together! 🌟
 
